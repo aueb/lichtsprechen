@@ -1,4 +1,4 @@
 lichtsprechen
 =============
 collection for free space optics
-see wiki
+see [wiki](https://github.com/aueb/lichtsprechen/wiki)
